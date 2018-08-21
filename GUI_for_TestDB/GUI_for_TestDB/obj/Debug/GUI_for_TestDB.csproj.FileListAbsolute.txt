@@ -1,0 +1,10 @@
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\obj\Debug\GUI_for_TestDB.Form1.resources
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\obj\Debug\GUI_for_TestDB.Properties.Resources.resources
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\obj\Debug\GUI_for_TestDB.csproj.GenerateResource.cache
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\obj\Debug\GUI_for_TestDB.csproj.CoreCompileInputs.cache
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\bin\Debug\GUI_for_TestDB.exe.config
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\bin\Debug\GUI_for_TestDB.exe
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\bin\Debug\GUI_for_TestDB.pdb
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\obj\Debug\GUI_for_TestDB.exe
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\obj\Debug\GUI_for_TestDB.pdb
+C:\Users\dehnk\OneDrive\Рабочий стол\GUI_for_TestDB\GUI_for_TestDB\GUI_for_TestDB\obj\Debug\GUI_for_TestDB.csprojResolveAssemblyReference.cache
